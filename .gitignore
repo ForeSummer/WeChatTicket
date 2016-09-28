@@ -66,3 +66,7 @@ target/
 
 # Custom files
 /configs.json
+
+# pyenv
+.python-version
+*~
